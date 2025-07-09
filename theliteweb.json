@@ -2,7 +2,10 @@
   "domains": [
     "cloudflare.com.",
     "oracle.com.",
-    "covenanteyes.com",
-    "duckduckgo.com"
+    "covenanteyes.com.",
+    "duckduckgo.com.",
+    "torproject.org.",
+    "brave.com.",
+    "protonvpn.com."
   ]
 }
